@@ -1,0 +1,29 @@
+@media (max-width: 1860px) and (min-width: 1365px) {
+    .container {
+        width: 1285px;
+    }
+
+    /* Typography */
+
+    h1 {
+        font-size: 36px;
+        line-height: 43.2px;
+    }
+
+    /* Second page */
+
+    .second-img {
+        width: 30vw;
+    }
+
+    /* Footer */
+
+    .lists-block {
+        width: 40%;
+    }
+
+    /* Menu */
+    aside {
+        width: 20%;
+    }
+}
